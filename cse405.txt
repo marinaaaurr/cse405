@@ -1,3 +1,14 @@
 cse 405
 Marina Urrutia
 004059925
+
+
+Javascript/Json Project
+      in this project i learned how to use Javascript to convert and pull information using Json. In my project i used simple html to create a button that once is clicked retrieves the sturdents information from the json formatted object and displays the students informtion.
+      
+      
+Node.js
+      in this project i connected a simple html page to my local host displaying the page using the node js server.
+      
+FirebaseAuth
+      in this project i used Android Studio to create an app login/register page that allows the user to create an account which is then saved and stored in the firebase.
